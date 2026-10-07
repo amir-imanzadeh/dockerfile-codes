@@ -36,7 +36,3 @@ Some examples may intentionally explore less optimal approaches when they help c
 ## Related Work
 
 The concepts explored here are also relevant to my broader work with backend applications, Linux environments, databases, and isolated execution systems.
-
-## License
-
-MIT
